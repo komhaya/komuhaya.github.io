@@ -1,32 +1,44 @@
-header{
-    text-align: center;
-}
 header h1{
-    float: left;
+    color:white;
+    background-color:black;
+    width:120px;
+    height:40px;
+    line-height:60px;
 }
-header li{
-    float: right;
+.header-list li {
+    font-size:14px;
+    float:left;
+    padding-left: 30px;
+    line-height:60px;
 }
-.mainvisual{
-    width: 100%;
-    height: 600px;
+header{
+    height:60px;
+    width:64%;
+}
+.main-visual{
+    width:auto;
+    height:600px;
 }
 .about h2{
-    text-align: center;
-    border-bottom:5px solid black ;
+    border-bottom:1px solid black;
+
+}
+.about{
+    text-align:center;
 }
 .about img{
-    float: left;
-
+    border-radius:50px;
 }
-.bycycle h2{
-    border-bottom: 5px solid black;
-    text-align: center;
+.about h3{
+    text-align:left;
 }
-.bycycle li{
-    float: left;
-
+.bicycle h2{
+    border-bottom:1px solid black;
 }
-footer{
-    text-align: center;
+.bicycle{
+    display:flex;
+    text-align:center;
+}
+.bicycle li{
+    flex:auto;
 }
