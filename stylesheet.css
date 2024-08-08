@@ -4,6 +4,7 @@ header h1{
     width:120px;
     height:40px;
     line-height:60px;
+    float:left;
 }
 .header-list li {
     font-size:14px;
