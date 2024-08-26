@@ -1,1 +1,0 @@
-# komuhaya.github.io
